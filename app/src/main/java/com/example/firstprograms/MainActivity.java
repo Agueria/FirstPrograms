@@ -7,6 +7,7 @@ import android.widget.Button;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+// Student: Cem Cakir, Student ID: 44463, Lab Task 1
 public class MainActivity extends AppCompatActivity {
 
     @Override
