@@ -5,7 +5,9 @@
 - Student name: Cem Cakir
 - Student ID: 44463
 
-FirstPrograms is an Android Studio project written in Java. The app provides a simple launcher screen for first Android exercises, including Hello World, a personal introduction screen, and a guessing game activity.
+## Description
+
+FirstPrograms is an Android Studio project written in Java. The app provides a simple launcher for the first Android exercises: Hello World, a personal introduction screen, and a number guessing game. It demonstrates basic Activity navigation, button actions, and user feedback.
 
 ## Build
 
